@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
           title: new Text('Welcome to Flutter'),
         ),
         body: new Center(
-          child: new Text('Hello World, welcome to my app, this is me making a change to the clone download.'),
+          child: new Text('Hello World, Next rev'),
         ),
       ),
     );
